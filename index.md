@@ -61,7 +61,7 @@
 
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
-  <li>ڪوئرا: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
-  <li>لینڪدین: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
-  <li>رزومه ے انگلیسے: <a href="https://amirrezabahoush.github.io/algorithm.github.io/"> رزومه </a></li>
+  <li> اینستاگرام: --.ftm.m.021.--
+  <li> اینستاگرام: fatima-baft-m
+  <li>رزومه ے انگلیسے: <a href="https://ftemeh021.github.io/algorithm.github.io/"> رزومه </a></li>
 </ul>
