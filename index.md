@@ -27,12 +27,12 @@
 
 <h1> مدرک ها</h1>
 <ul>
-  <li>PHOTOSHOP(Tehran Technical and Vocational School)</li>
-  <li>ICDL1(Tehran Technical and Vocational School)</li>
-  <li>ICDL2(Tehran Technical and Vocational School)</li>
-  <li>KNITTINH DOLLS(karaj Technical and Vocational School)</li>
-  <li>Quran reading(karaj Technical and Vocational School)</li>
-  <li>Pottery</li>
+  <li>PHOTOSHOP(آموزشگاه فنی و حرفه ای تهران)</li>
+  <li>ICDL1(آموزشگاه فنی و حرفه ای تهران)</li>
+  <li>ICDL2(آموزشگاه فنی و حرفه ای تهران)</li>
+  <li>KNITTINH DOLLS(عروسک بافی)</li>
+  <li>Quran reading(قرائت ، صوت ، لحن قرآن)</li>
+  <li>Pottery(سفالگری)</li>
 </ul>
 
 <h1> زبان ها</h1>
