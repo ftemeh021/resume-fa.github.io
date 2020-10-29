@@ -2,8 +2,6 @@
   <img src="https://avatars3.githubusercontent.com/u/72304024?s=400&u=8144d72e95648926d30333c01886c0d7ef860f3b&v=4" />
   <h1> درباره ے من</h1>
   <p> من فاطمه مرادی هستم. من دانشجوے ڪارشناسے رشته ے مهندسے ڪامپیوتر در دانشگاه پیام نور شهریار هستم.</p>
-  
-</ul>
 
   <h1>مشخصات فردی</h1>
 <ul>
@@ -68,4 +66,3 @@
   <li> اینستاگرام: fatima-baft-m
   <li>رزومه ے انگلیسے: <a href="https://ftemeh021.github.io/algorithm.github.io/"> رزومه </a></li>
 
-</ul>
