@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="https://avatars3.githubusercontent.com/u/69066265?s=400&u=6f460ff2529b523ac7d1abbf6e7f101012a65a8d&v=4" />
+  <h1> درباره ی من</h1>
+  <p> من امیررضا باهوش هستم. من دانشجوی کارشناسی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور و یک فرانت اند دولوپر هستم که عاشق کارش و یادگیری و پیشرفته و به شدت با انگیزه است نسبت به رشد و یادگیری بیشتر.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام: امیررضا</li>
+  <li>نام خانوادگی: باهوش مهدی آبادی</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: ۱۷ دی ۱۳۷۵</li>
+  <li>نوع اشتغال: تمام وقت</li>
+  <li>محل سکونت: تهران</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/ftemeh021/resume_fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>Javascript</li>
+  <li>HTML5</li>
+  <li>Styling( CSS3 - Sass - Less - BEM - Styled Components)</li>
+  <li>UI Libraries( Bootstrap - Material UI - Antd)</li>
+  <li>React js</li>
+  <li>React Hooks</li>
+  <li>React Context</li>
+  <li>Redux</li>
+  <li>ES6</li>
+  <li>JQuery</li>
+  <li>Websocket</li>
+  <li>Axios</li>
+  <li>Webpack</li>
+  <li>Gulp js</li>
+  <li>Docker</li>
+  <li>Ubuntu</li>
+  <li>Unit Testing (Jestjs - Enzyme)</li>
+  <li>UX Design</li>
+  <li>Git</li>
+</ul>
 
-### Markdown
+<h1> مدرک ها</h1>
+<ul>
+  <li>HTML & CSS (Tehran Institute of Technology)</li>
+  <li>JavaScript (Tehran Institute of Technology)</li>
+  <li>bootstrap4 & LESS & SCSS (Tehran Institute of Technology)</li>
+  <li>Wordpress (Tehran Institute of Technology)</li>
+  <li>React & React Native (Faratar Az Danesh)</li>
+  <li>UX Design (Amanj Academy)</li>
+  <li>Javascript (Solo Learn)</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> تجربه های کاری </h1>
+<ul>
+   <li> ۱ سال در دبیرستان خاتم به عنوان معلم ریاضی</li>
+   <li>۹ ماه در شرکت سوران ارقام فناور پردیس به عنوان فرانت اند دولوپر</li>
+   <li>۱۱ ماه تا کنون در شرکت موج آینده فرافن به عنوان فرانت اند دولوپر
+</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> پروژه ها </h1>
+<ul>
+   <li> پروژه ی http://www.htdf.ir/ در شرکت سوران ارقام فناور پردیس</li>
+   <li> پروژه ی https://amenu.ir/ برای شرکت کوتینت </li>
+   <li> پروژه ی https://viruspod.ir/ در شرکت موج آینده فرافن </li>
+</li>
+</ul>
 
-- Bulleted
-- List
+<h1> سوابق تحصیلی </h1>
+<ul>
+   <li> دانشجوی کارشناسی در دانشگاه صنعتی امیرکبیر رشته ی مهندسی متالورژی(۱۳۹۴-۱۳۹۷)-انصراف</li>
+   <li> دانشجوی کارشناسی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور و در حال تحصیل</li>
+</ul>
 
-1. Numbered
-2. List
+<h1> عناوین و افتخارات </h1>
+<br/>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ftemeh021/resume_fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1> سایر حساب های کاربری </h1>
+<ul>
+  <li>کوئرا: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
+  <li>لینکدین: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
+  <li>رزومه ی انگلیسی: <a href="https://amirrezabahoush.github.io/algorithm.github.io/"> رزومه </a></li>
+</ul>
