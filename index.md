@@ -63,4 +63,4 @@
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
   <li>ڪوئرا: <a href="https://quera.ir/profile/fatima31"> https://quera.ir/profile/fatima31 </a></li>
-  <li>رزومه ے انگلیسے: <a href="https://ftemeh021.github.io/algorithm.github.io/"> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://ftemeh021.github.io/ftemeh-resume/"> رزومه </a></li>
