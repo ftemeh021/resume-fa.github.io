@@ -62,6 +62,6 @@
 
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
-  <li> اینستاگرام: --.ftm.m.021.--
   <li> اینستاگرام: fatima-baft-m
+  <li>ڪوئرا: <a href="https://quera.ir/profile/fatima31"> https://quera.ir/profile/fatima31 </a></li>
   <li>رزومه ے انگلیسے: <a href="https://ftemeh021.github.io/algorithm.github.io/"> رزومه </a></li>
