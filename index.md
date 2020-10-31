@@ -21,8 +21,10 @@
   <li>ICDL2</li>
   <li>PHOTOSHOP</li>
   <li>C++</li>
-  <li>C+</li>
   <li>C</li>
+  <li>گویندگی</li>
+  <li>عروسک سازی</li>
+
 </ul>
 
 <h1> مدرک ها</h1>
